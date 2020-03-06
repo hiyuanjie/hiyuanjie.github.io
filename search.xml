@@ -8,7 +8,7 @@
       <link href="/2020/03/07/123/"/>
       <url>/2020/03/07/123/</url>
       
-        <content type="html"><![CDATA[<p><img src="/.io//123.png" alt="我的图片"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="图片上传测试"><a href="#图片上传测试" class="headerlink" title="图片上传测试"></a>图片上传测试</h1><p><img src="/.io//123.png" alt="我的图片"></p>]]></content>
       
       
       
@@ -21,7 +21,7 @@
       <link href="/2020/03/07/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
       <url>/2020/03/07/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h1 id="这是一篇测试文章"><a href="#这是一篇测试文章" class="headerlink" title="这是一篇测试文章"></a>这是一篇测试文章</h1>]]></content>
+        <content type="html"><![CDATA[<h1 id="这是一篇测试文章"><a href="#这是一篇测试文章" class="headerlink" title="这是一篇测试文章"></a>这是一篇测试文章</h1><p>链接测试：<br>[百度]（<a href="http://baidu.com）" target="_blank" rel="noopener">http://baidu.com）</a><br>图片测试：<br><img src="http://t8.baidu.com/it/u=3571592872,3353494284&fm=79&app=86&f=JPEG?w=1200&h=1290" alt="这里是一张图"><br>下划线测试<br><u>下划线测试</u><br>删除线测试<br><del>删除线测试</del><br>粗体测试<br><strong>粗体测试</strong><br>斜体测试<br><em>斜体测试</em>  </p>]]></content>
       
       
       
