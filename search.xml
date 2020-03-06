@@ -2,6 +2,19 @@
 <search> 
   
   
+    
+    <entry>
+      <title>测试文章</title>
+      <link href="/2020/03/07/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+      <url>/2020/03/07/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="这是一篇测试文章"><a href="#这是一篇测试文章" class="headerlink" title="这是一篇测试文章"></a>这是一篇测试文章</h1><p>链接测试：<br>[百度]（<a href="http://baidu.com）" target="_blank" rel="noopener">http://baidu.com）</a><br>图片测试：<br><img src="http://t8.baidu.com/it/u=3571592872,3353494284&fm=79&app=86&f=JPEG?w=1200&h=1290" alt="这里是一张图"><br>下划线测试<br><u>下划线测试</u><br>删除线测试<br><del>删除线测试</del><br>粗体测试<br><strong>粗体测试</strong><br>斜体测试<br><em>斜体测试</em><br>表格测试<br>|天气|人数|<br>|:—-|—-:|<br>|晴朗|2人|<br>|乌云|1人|<br>|下雨|0人|</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
   
   
 </search>
